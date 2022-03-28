@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun initViews(){
+        ///jjjjj
         val btn_saveInternal = findViewById<Button>(R.id.btn_saveInternal)
         val btn_readInternal = findViewById<Button>(R.id.btn_readInternal)
         val btn_saveExternal = findViewById<Button>(R.id.btn_saveExternal)
